@@ -1,7 +1,7 @@
 export default function HeroSection() {
   return (
     <>
-     
+    
     <section id="heroSection" className="hero--section">
       <div className="hero--section--content--box">
         <div className="hero--section--content">
