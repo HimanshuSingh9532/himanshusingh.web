@@ -1,0 +1,81 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "A Passinate & Dedicated Front-End Devloper. I believe that my strong problem-solving skills and eagerness to learn make me an ideal candidate for Front-End Developer."
+    },
+    {
+      "id": "2",
+      "src": "./img/jsimage.png",
+      "title": "JavaScript",
+      "description": "I have invested countless hours in JavaScript projects and my technical skills through online courses, personal projects, and collaborations with fellow developers. "
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "I have invested countless hours in developing  projects and responsiveness  and design using CSS and other technologies such as Tailwind CCS, Bootstrap, SCSS."
+    },
+    {
+      "id": "4",
+      "src": "./img/reactjsimage.png",
+      "title": "React Development",
+      "description": "My skills are not limited to just programming languages, I also have experience of React.js. I am committed to staying up-to-date with new technologies and best practices. "
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+
+      "href": "https://github.com/HimanshuSingh9532/FLIP-COIN"
+    },
+    {
+      "id": "2",
+      "src": "./img/to-do-list image.png",
+      "title": "TO-DO-LIST",
+      "description": "I needed a place where I can store all my day to day pending tasks and hence created this  minimalistic To-Do app.",
+     
+
+      "href": "https://github.com/HimanshuSingh9532/TO-DO-LIST-"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+
+      "href": "https://github.com/HimanshuSingh9532/Hide-Show"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
