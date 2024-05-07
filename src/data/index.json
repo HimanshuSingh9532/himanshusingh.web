@@ -28,11 +28,11 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "src": "./img/Tic-Tac-Toe.png",
+      "title": "Tic-Tac-Toe",
+      "description": " I created the popular tic tac toe game as a web app where I can play with a friend or a computer ",
 
-      "href": "https://github.com/HimanshuSingh9532/FLIP-COIN"
+      "href": "https://github.com/HimanshuSingh9532/Tic-Tac-Toe"
     },
     {
       "id": "2",
@@ -44,6 +44,7 @@
       "href": "https://github.com/HimanshuSingh9532/TO-DO-LIST-"
     },
     {
+      
       "id": "3",
       "src": "./img/placeholder-image-2.png",
       "title": "Easy Rentn",
@@ -51,31 +52,6 @@
 
       "href": "https://github.com/HimanshuSingh9532/Hide-Show"
     }
-  ],
-  "testimonial": [
-    {
-      "id": "1",
-      "count": "5",
-      "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
-    },
-    {
-      "id": "2",
-      "count": "5",
-      "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
-    },
-    {
-      "id": "3",
-      "count": "5",
-      "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
-    }
   ]
 }
+  
