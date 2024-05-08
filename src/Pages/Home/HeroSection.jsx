@@ -20,7 +20,7 @@ export default function HeroSection() {
         <button className="btn btn-primary">Resume</button>
       </div>
       <div className="hero--section--img">
-        <img src="./img/Himanshuimage.png" alt="Hero Section" />
+        <img src="./img/himanshu-img.jpeg" alt="Hero Section" />
       </div>
     </section>
   

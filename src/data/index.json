@@ -46,11 +46,11 @@
     {
       
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "src": "./img/cal.png",
+      "title": "Calculator",
+      "description": " I created this simple calculator app that is fully responsive  and helped me learn many JavaScript math functions",
 
-      "href": "https://github.com/HimanshuSingh9532/Hide-Show"
+      "href": "https://github.com/HimanshuSingh9532/NEW-CALCULATOR"
     }
   ]
 }
